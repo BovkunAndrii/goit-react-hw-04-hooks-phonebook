@@ -1,0 +1,23 @@
+.container {
+  margin: 50px auto;
+  padding: 40px;
+  width: 500px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #eee;
+  filter: drop-shadow(0 4px 4px rgba(6, 107, 60, 0.397));
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 36px;
+  text-align: center;
+}
+
+.subtitle {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 28px;
+  text-align: center;
+}
